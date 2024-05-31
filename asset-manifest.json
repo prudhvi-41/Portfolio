@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.071f5b25.css",
+    "main.js": "/Portfolio/static/js/main.1f5d696c.js",
+    "static/js/453.ed3810f9.chunk.js": "/Portfolio/static/js/453.ed3810f9.chunk.js",
+    "static/media/profile.jpg": "/Portfolio/static/media/profile.5f75630467c51b86fd99.jpg",
+    "static/media/about.jpg": "/Portfolio/static/media/about.abd7775019ece07cdb54.jpg",
+    "static/media/211210041_Narra_Prudhvi_sai.pdf": "/Portfolio/static/media/211210041_Narra_Prudhvi_sai.e9c3e528353a50d0d577.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.071f5b25.css.map": "/Portfolio/static/css/main.071f5b25.css.map",
+    "main.1f5d696c.js.map": "/Portfolio/static/js/main.1f5d696c.js.map",
+    "453.ed3810f9.chunk.js.map": "/Portfolio/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.071f5b25.css",
+    "static/js/main.1f5d696c.js"
+  ]
+}
