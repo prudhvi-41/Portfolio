@@ -24,7 +24,7 @@ const Qualification = () => {
                         <div className="qualification__data">
                             <div>
                                 <h3 className="qualification__title">Bachelors</h3>
-                                <span className="qualification__subtitle">NIT Delhi (CGPA: 7.17)</span>
+                                <span className="qualification__subtitle">NIT Delhi (CGPA: 7.12)</span>
                                 
                                 <div className="qualification__calendar">
                                     <i className="uil uil-calendar-alt"></i>
@@ -90,6 +90,15 @@ const Qualification = () => {
                                 <div className="qualification__calendar">
                                     <i className="uil uil-calendar-alt"></i>
                                     July - September 2023
+                                </div>
+                            </div>
+
+                             <div>
+                                <h3 className="qualification__title">Web Developer</h3>
+                                <span className="qualification__subtitle">Encryptix</span>
+                                <div className="qualification__calendar">
+                                    <i className="uil uil-calendar-alt"></i>
+                                    June - July 2024
                                 </div>
                             </div>
 
