@@ -24,7 +24,7 @@ const Qualification = () => {
                         <div className="qualification__data">
                             <div>
                                 <h3 className="qualification__title">Bachelors</h3>
-                                <span className="qualification__subtitle">NIT Delhi (CGPA: 7.12)</span>
+                                <span className="qualification__subtitle">NIT Delhi (CGPA: 7.17)</span>
                                 
                                 <div className="qualification__calendar">
                                     <i className="uil uil-calendar-alt"></i>
@@ -76,8 +76,10 @@ const Qualification = () => {
                     </div>
 
                     <div className="qualification__content qualification__content-active">
+
+
                         <div className="qualification__data">
-                            <div></div>
+                        <div></div> 
 
                             <div>
                                 <span className="qualification__rounder"></span>
@@ -91,19 +93,40 @@ const Qualification = () => {
                                     <i className="uil uil-calendar-alt"></i>
                                     July - September 2023
                                 </div>
+
+                      
+                                  
+                            </div>  
+                             
+                            <div></div>
+                            <div></div>
+                            
+                        </div>    
+
+                        <div className="qualification__data">
+                        <div></div> 
+                        
+
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <div className="qualification__line"></div>
                             </div>
 
-                             <div>
+                            <div>
                                 <h3 className="qualification__title">Web Developer</h3>
-                                <span className="qualification__subtitle">Encryptix</span>
+                                <span className="qualification__subtitle">Algotrack</span>
                                 <div className="qualification__calendar">
                                     <i className="uil uil-calendar-alt"></i>
-                                    June - July 2024
+                                    July - September 2023
                                 </div>
-                            </div>
 
+                      
+                                  
+                            </div>  
+                             
                             
-                        </div>
+                        </div>    
+
                     </div>
                 </div>
             </div>
