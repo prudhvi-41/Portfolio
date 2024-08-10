@@ -102,10 +102,10 @@ const Qualification = () => {
                             <div></div>
                             
                         </div>    
-
+                          
                         <div className="qualification__data">
                         <div></div> 
-                        
+                             
 
                             <div>
                                 <span className="qualification__rounder"></span>
@@ -114,10 +114,10 @@ const Qualification = () => {
 
                             <div>
                                 <h3 className="qualification__title">Web Developer</h3>
-                                <span className="qualification__subtitle">Algotrack</span>
+                                <span className="qualification__subtitle">Encryptix</span>
                                 <div className="qualification__calendar">
                                     <i className="uil uil-calendar-alt"></i>
-                                    July - September 2023
+                                    June - July 2024
                                 </div>
 
                       
